@@ -129,12 +129,12 @@ you to view the history
 - ability to see the engine's _info_ responses
 - ability to download the PGN of the game
 - ability to copy the FEN of the current position (including having stepped backward through history)
+- set parameters (color, engine, level, etc) of a game and start it
 
 <img src="screenshots/browser-component.jpg" alt="browser component">
 
 Partial Future Browser Features Planned
 
-- set parameters (color, engine, level, etc) of a game and start it
 - read info about engines, pesonalities, and books
 - set more options for the engine than are exposed on the stand alone device
 
